@@ -1,0 +1,12 @@
+{
+  "seconds": 19.32671562500036,
+  "fits": 12,
+  "selection_settings": 49,
+  "configuration": {
+    "text_file": "text_1.0_all_0.001.npz",
+    "balance": 1.0,
+    "text_weight": 0.25,
+    "hard_validation_accuracy": 85.91549295774648,
+    "validation_accuracy": 93.734335839599
+  }
+}

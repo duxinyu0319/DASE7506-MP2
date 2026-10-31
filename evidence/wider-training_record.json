@@ -1,0 +1,15 @@
+{
+  "total_seconds": 25.264996249999967,
+  "fits": 4,
+  "parameter_count": 542017,
+  "asset_bytes": 2187037,
+  "configuration": {
+    "file": "deep_hard_7573.npz",
+    "architecture": "2084-256-32-1 tanh MLP",
+    "selection": "hard validation then overall validation",
+    "selected_epoch": 70,
+    "seed": 7573,
+    "hard_validation_accuracy": 84.50704225352112,
+    "validation_accuracy": 93.10776942355889
+  }
+}

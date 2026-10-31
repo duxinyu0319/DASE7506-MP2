@@ -1,0 +1,7 @@
+{
+  "student_id": "Fill your own student ID on the course website",
+  "accuracy": 81.5845824411135,
+  "code_link": "Publish the exact release to your public repository",
+  "checkpoint_link": "Publish all checkpoint files or the provided checkpoint ZIP",
+  "github_issue_created": false
+}

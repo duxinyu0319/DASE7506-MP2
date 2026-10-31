@@ -1,0 +1,280 @@
+[
+  {
+    "method": "first_candidate",
+    "validation_accuracy": 78.19548872180451
+  },
+  {
+    "method": "majority_vote",
+    "validation_accuracy": 86.21553884711778
+  },
+  {
+    "method": "embedding",
+    "regularization": 0.01,
+    "validation_accuracy": 89.59899749373433,
+    "fit_seconds": 0.28420983299929503,
+    "iterations": 100,
+    "converged": true,
+    "file": "embedding_0.01.npz"
+  },
+  {
+    "method": "embedding",
+    "regularization": 0.1,
+    "validation_accuracy": 89.72431077694235,
+    "fit_seconds": 0.11928720899959444,
+    "iterations": 43,
+    "converged": true,
+    "file": "embedding_0.1.npz"
+  },
+  {
+    "method": "embedding",
+    "regularization": 1.0,
+    "validation_accuracy": 88.09523809523809,
+    "fit_seconds": 0.059439208999719995,
+    "iterations": 20,
+    "converged": true,
+    "file": "embedding_1.0.npz"
+  },
+  {
+    "method": "relative",
+    "regularization": 0.01,
+    "validation_accuracy": 91.47869674185463,
+    "fit_seconds": 0.7124776249993374,
+    "iterations": 129,
+    "converged": true,
+    "file": "relative_0.01.npz"
+  },
+  {
+    "method": "relative",
+    "regularization": 0.1,
+    "validation_accuracy": 91.35338345864662,
+    "fit_seconds": 0.3289286250001169,
+    "iterations": 59,
+    "converged": true,
+    "file": "relative_0.1.npz"
+  },
+  {
+    "method": "relative",
+    "regularization": 1.0,
+    "validation_accuracy": 90.6015037593985,
+    "fit_seconds": 0.1686836660001063,
+    "iterations": 29,
+    "converged": true,
+    "file": "relative_1.0.npz"
+  },
+  {
+    "method": "evidence",
+    "regularization": 0.01,
+    "validation_accuracy": 89.59899749373433,
+    "fit_seconds": 0.010924582999905397,
+    "iterations": 16,
+    "converged": true,
+    "file": "evidence_0.01.npz"
+  },
+  {
+    "method": "evidence",
+    "regularization": 0.1,
+    "validation_accuracy": 88.7218045112782,
+    "fit_seconds": 0.0035767910003414727,
+    "iterations": 10,
+    "converged": true,
+    "file": "evidence_0.1.npz"
+  },
+  {
+    "method": "evidence",
+    "regularization": 1.0,
+    "validation_accuracy": 88.22055137844612,
+    "fit_seconds": 0.003559750000022177,
+    "iterations": 8,
+    "converged": true,
+    "file": "evidence_1.0.npz"
+  },
+  {
+    "method": "combined",
+    "regularization": 0.01,
+    "validation_accuracy": 91.72932330827066,
+    "fit_seconds": 0.5230008750004345,
+    "iterations": 99,
+    "converged": true,
+    "file": "combined_0.01.npz"
+  },
+  {
+    "method": "combined",
+    "regularization": 0.1,
+    "validation_accuracy": 92.23057644110276,
+    "fit_seconds": 0.29692804099977366,
+    "iterations": 55,
+    "converged": true,
+    "file": "combined_0.1.npz"
+  },
+  {
+    "method": "combined",
+    "regularization": 1.0,
+    "validation_accuracy": 91.72932330827066,
+    "fit_seconds": 0.1754017080002086,
+    "iterations": 31,
+    "converged": true,
+    "file": "combined_1.0.npz"
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "relative_0.01.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 91.35338345864662
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "relative_0.01.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 90.97744360902256
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "relative_0.01.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 90.47619047619048
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 90.35087719298247
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 91.22807017543859
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 91.10275689223057
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 92.73182957393483
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "embedding_0.1.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 91.47869674185463
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 91.47869674185463
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "evidence_0.01.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 92.35588972431079
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 92.73182957393483
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "relative_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "evidence_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.25,
+    "validation_accuracy": 91.60401002506265
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "evidence_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.5,
+    "validation_accuracy": 91.22807017543859
+  },
+  {
+    "method": "fusion",
+    "members": [
+      "evidence_0.01.npz",
+      "combined_0.1.npz"
+    ],
+    "weight": 0.75,
+    "validation_accuracy": 90.85213032581454
+  }
+]

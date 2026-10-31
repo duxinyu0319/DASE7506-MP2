@@ -1,0 +1,15 @@
+{
+  "seconds": 25.494124790999194,
+  "fits": 4,
+  "max_trees": 160,
+  "PCA_components": 32,
+  "depth": 3,
+  "configuration": {
+    "subset": "hard",
+    "rate": 0.15,
+    "trees": 140,
+    "tree_weight": 0.25,
+    "hard_validation_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "subset": "hard",
+  "rate": 0.15,
+  "trees": 140,
+  "tree_weight": 0.25,
+  "hard_validation_accuracy": 85.63380281690141,
+  "validation_accuracy": 93.60902255639097
+}

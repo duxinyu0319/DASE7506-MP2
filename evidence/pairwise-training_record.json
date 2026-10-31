@@ -1,0 +1,12 @@
+{
+  "seconds": 3.6672153750005236,
+  "fits": 6,
+  "settings": 25,
+  "selection": {
+    "file": null,
+    "weight": 0.0,
+    "interaction": false,
+    "hard_validation_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  }
+}

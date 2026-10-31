@@ -1,0 +1,122 @@
+[
+  {
+    "file": "text_0.3_all_0.001.npz",
+    "balance": 0.3,
+    "subset": "all",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 1.1807697920012288,
+    "hard_validation_accuracy": 80.0,
+    "validation_accuracy": 91.10275689223057
+  },
+  {
+    "file": "text_0.3_all_0.01.npz",
+    "balance": 0.3,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.5683341669991933,
+    "hard_validation_accuracy": 77.1830985915493,
+    "validation_accuracy": 89.84962406015038
+  },
+  {
+    "file": "text_0.3_hard_0.001.npz",
+    "balance": 0.3,
+    "subset": "hard",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 0.613735082999483,
+    "hard_validation_accuracy": 81.97183098591549,
+    "validation_accuracy": 91.97994987468672
+  },
+  {
+    "file": "text_0.3_hard_0.01.npz",
+    "balance": 0.3,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.23912000000018452,
+    "hard_validation_accuracy": 76.61971830985915,
+    "validation_accuracy": 89.59899749373433
+  },
+  {
+    "file": "text_1.0_all_0.001.npz",
+    "balance": 1.0,
+    "subset": "all",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 1.2631894999994984,
+    "hard_validation_accuracy": 80.56338028169014,
+    "validation_accuracy": 91.35338345864662
+  },
+  {
+    "file": "text_1.0_all_0.01.npz",
+    "balance": 1.0,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.6117069169995375,
+    "hard_validation_accuracy": 76.61971830985915,
+    "validation_accuracy": 89.59899749373433
+  },
+  {
+    "file": "text_1.0_hard_0.001.npz",
+    "balance": 1.0,
+    "subset": "hard",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 0.615366374999212,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "text_1.0_hard_0.01.npz",
+    "balance": 1.0,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.24080675000004703,
+    "hard_validation_accuracy": 76.61971830985915,
+    "validation_accuracy": 89.59899749373433
+  },
+  {
+    "file": "text_3.0_all_0.001.npz",
+    "balance": 3.0,
+    "subset": "all",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 1.5769886660000338,
+    "hard_validation_accuracy": 79.71830985915493,
+    "validation_accuracy": 90.97744360902256
+  },
+  {
+    "file": "text_3.0_all_0.01.npz",
+    "balance": 3.0,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.8353787079995527,
+    "hard_validation_accuracy": 76.05633802816901,
+    "validation_accuracy": 89.3483709273183
+  },
+  {
+    "file": "text_3.0_hard_0.001.npz",
+    "balance": 3.0,
+    "subset": "hard",
+    "reg": 0.001,
+    "converged": true,
+    "seconds": 0.6171473750000587,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "text_3.0_hard_0.01.npz",
+    "balance": 3.0,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.32128491699950246,
+    "hard_validation_accuracy": 77.74647887323944,
+    "validation_accuracy": 90.1002506265664
+  }
+]

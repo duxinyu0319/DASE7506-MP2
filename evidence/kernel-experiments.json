@@ -1,0 +1,122 @@
+[
+  {
+    "file": "kernel_0.001_all_0.01.npz",
+    "gamma": 0.001,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.7309553329996561,
+    "hard_validation_accuracy": 81.40845070422536,
+    "validation_accuracy": 91.72932330827066
+  },
+  {
+    "file": "kernel_0.001_all_0.1.npz",
+    "gamma": 0.001,
+    "subset": "all",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.4203053330002149,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.001_hard_0.01.npz",
+    "gamma": 0.001,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.5055022910000844,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.001_hard_0.1.npz",
+    "gamma": 0.001,
+    "subset": "hard",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.31600512499971956,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.01_all_0.01.npz",
+    "gamma": 0.01,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.7036440410010982,
+    "hard_validation_accuracy": 81.69014084507043,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "file": "kernel_0.01_all_0.1.npz",
+    "gamma": 0.01,
+    "subset": "all",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.414768249998815,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.01_hard_0.01.npz",
+    "gamma": 0.01,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.48384704099953524,
+    "hard_validation_accuracy": 81.97183098591549,
+    "validation_accuracy": 91.97994987468672
+  },
+  {
+    "file": "kernel_0.01_hard_0.1.npz",
+    "gamma": 0.01,
+    "subset": "hard",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.24360866600000008,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.1_all_0.01.npz",
+    "gamma": 0.1,
+    "subset": "all",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.5930257910004002,
+    "hard_validation_accuracy": 80.84507042253522,
+    "validation_accuracy": 91.47869674185463
+  },
+  {
+    "file": "kernel_0.1_all_0.1.npz",
+    "gamma": 0.1,
+    "subset": "all",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.32433024999954796,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.1_hard_0.01.npz",
+    "gamma": 0.1,
+    "subset": "hard",
+    "reg": 0.01,
+    "converged": true,
+    "seconds": 0.42672816599952057,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.1_hard_0.1.npz",
+    "gamma": 0.1,
+    "subset": "hard",
+    "reg": 0.1,
+    "converged": true,
+    "seconds": 0.22312058299939963,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  }
+]

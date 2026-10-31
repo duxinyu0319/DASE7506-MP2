@@ -1,0 +1,15 @@
+{
+  "seed": 7600,
+  "fits": 12,
+  "settings": 49,
+  "seconds": 8.173156875000132,
+  "anchor_count": 512,
+  "note": "Anchors are unlabeled training feature basis vectors, with no IDs/answer labels/lookup predictions stored.",
+  "configuration": {
+    "file": null,
+    "weight": 0.0,
+    "gamma": 0.0,
+    "hard_validation_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  }
+}

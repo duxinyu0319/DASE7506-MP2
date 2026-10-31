@@ -1,0 +1,62 @@
+[
+  {
+    "file": "pair_False_0.001.npz",
+    "interaction": false,
+    "regularization": 0.001,
+    "pair_count": 6516,
+    "converged": false,
+    "seconds": 0.3252712920002523,
+    "hard_validation_accuracy": 81.12676056338029,
+    "validation_accuracy": 91.60401002506265
+  },
+  {
+    "file": "pair_False_0.01.npz",
+    "interaction": false,
+    "regularization": 0.01,
+    "pair_count": 6516,
+    "converged": true,
+    "seconds": 0.304431583999758,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "pair_False_0.1.npz",
+    "interaction": false,
+    "regularization": 0.1,
+    "pair_count": 6516,
+    "converged": true,
+    "seconds": 0.13979995800036704,
+    "hard_validation_accuracy": 82.8169014084507,
+    "validation_accuracy": 92.35588972431079
+  },
+  {
+    "file": "pair_True_0.001.npz",
+    "interaction": true,
+    "regularization": 0.001,
+    "pair_count": 6516,
+    "converged": false,
+    "seconds": 0.4533598329999222,
+    "hard_validation_accuracy": 80.84507042253522,
+    "validation_accuracy": 91.47869674185463
+  },
+  {
+    "file": "pair_True_0.01.npz",
+    "interaction": true,
+    "regularization": 0.01,
+    "pair_count": 6516,
+    "converged": false,
+    "seconds": 0.4618537499991362,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "pair_True_0.1.npz",
+    "interaction": true,
+    "regularization": 0.1,
+    "pair_count": 6516,
+    "converged": true,
+    "seconds": 0.1971112080009334,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  }
+]

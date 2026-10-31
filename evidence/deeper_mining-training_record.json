@@ -1,0 +1,15 @@
+{
+  "total_seconds": 14.229966292001336,
+  "fits": 4,
+  "parameter_count": 277249,
+  "asset_bytes": 1128442,
+  "configuration": {
+    "file": "deep_mining_7581.npz",
+    "architecture": "2084-128-64-32-1 tanh MLP",
+    "selection": "hard validation then overall validation",
+    "selected_epoch": 40,
+    "seed": 7581,
+    "hard_validation_accuracy": 85.07042253521126,
+    "validation_accuracy": 93.35839598997494
+  }
+}

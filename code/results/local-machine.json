@@ -1,0 +1,9 @@
+{
+  "system": "Darwin",
+  "macOS_version": "26.4",
+  "architecture": "arm64",
+  "machine_model": "Mac17,6",
+  "cpu": "Apple M5 Max",
+  "memory_bytes": 38654705664,
+  "python": "3.12.10"
+}

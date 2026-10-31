@@ -1,0 +1,345 @@
+[
+  {
+    "file": null,
+    "weight": 0.0,
+    "gamma": 0.0,
+    "hard_validation_accuracy": 85.63380281690141,
+    "validation_accuracy": 93.60902255639097
+  },
+  {
+    "file": "kernel_0.001_all_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.001_all_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.5,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.001_all_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.75,
+    "hard_validation_accuracy": 81.69014084507043,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "file": "kernel_0.001_all_0.01.npz",
+    "gamma": 0.001,
+    "weight": 1.0,
+    "hard_validation_accuracy": 81.40845070422536,
+    "validation_accuracy": 91.72932330827066
+  },
+  {
+    "file": "kernel_0.001_all_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.25,
+    "hard_validation_accuracy": 84.22535211267605,
+    "validation_accuracy": 92.98245614035088
+  },
+  {
+    "file": "kernel_0.001_all_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.66197183098592,
+    "validation_accuracy": 92.73182957393483
+  },
+  {
+    "file": "kernel_0.001_all_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.75,
+    "hard_validation_accuracy": 82.8169014084507,
+    "validation_accuracy": 92.35588972431079
+  },
+  {
+    "file": "kernel_0.001_all_0.1.npz",
+    "gamma": 0.001,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.001_hard_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.001_hard_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.001_hard_0.01.npz",
+    "gamma": 0.001,
+    "weight": 0.75,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.001_hard_0.01.npz",
+    "gamma": 0.001,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.001_hard_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "file": "kernel_0.001_hard_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.66197183098592,
+    "validation_accuracy": 92.73182957393483
+  },
+  {
+    "file": "kernel_0.001_hard_0.1.npz",
+    "gamma": 0.001,
+    "weight": 0.75,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.001_hard_0.1.npz",
+    "gamma": 0.001,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.01_all_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.01_all_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.5,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.01_all_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.75,
+    "hard_validation_accuracy": 81.69014084507043,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "file": "kernel_0.01_all_0.01.npz",
+    "gamma": 0.01,
+    "weight": 1.0,
+    "hard_validation_accuracy": 81.69014084507043,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "file": "kernel_0.01_all_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.25,
+    "hard_validation_accuracy": 84.22535211267605,
+    "validation_accuracy": 92.98245614035088
+  },
+  {
+    "file": "kernel_0.01_all_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "file": "kernel_0.01_all_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.75,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.01_all_0.1.npz",
+    "gamma": 0.01,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.01_hard_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.01_hard_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.01_hard_0.01.npz",
+    "gamma": 0.01,
+    "weight": 0.75,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.01_hard_0.01.npz",
+    "gamma": 0.01,
+    "weight": 1.0,
+    "hard_validation_accuracy": 81.97183098591549,
+    "validation_accuracy": 91.97994987468672
+  },
+  {
+    "file": "kernel_0.01_hard_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "file": "kernel_0.01_hard_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.66197183098592,
+    "validation_accuracy": 92.73182957393483
+  },
+  {
+    "file": "kernel_0.01_hard_0.1.npz",
+    "gamma": 0.01,
+    "weight": 0.75,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.01_hard_0.1.npz",
+    "gamma": 0.01,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.1_all_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.1_all_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.5,
+    "hard_validation_accuracy": 81.97183098591549,
+    "validation_accuracy": 91.97994987468672
+  },
+  {
+    "file": "kernel_0.1_all_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.75,
+    "hard_validation_accuracy": 81.69014084507043,
+    "validation_accuracy": 91.8546365914787
+  },
+  {
+    "file": "kernel_0.1_all_0.01.npz",
+    "gamma": 0.1,
+    "weight": 1.0,
+    "hard_validation_accuracy": 80.84507042253522,
+    "validation_accuracy": 91.47869674185463
+  },
+  {
+    "file": "kernel_0.1_all_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "file": "kernel_0.1_all_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  },
+  {
+    "file": "kernel_0.1_all_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.75,
+    "hard_validation_accuracy": 82.8169014084507,
+    "validation_accuracy": 92.35588972431079
+  },
+  {
+    "file": "kernel_0.1_all_0.1.npz",
+    "gamma": 0.1,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.53521126760563,
+    "validation_accuracy": 92.23057644110276
+  },
+  {
+    "file": "kernel_0.1_hard_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.25,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.1_hard_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.5,
+    "hard_validation_accuracy": 82.8169014084507,
+    "validation_accuracy": 92.35588972431079
+  },
+  {
+    "file": "kernel_0.1_hard_0.01.npz",
+    "gamma": 0.1,
+    "weight": 0.75,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.1_hard_0.01.npz",
+    "gamma": 0.1,
+    "weight": 1.0,
+    "hard_validation_accuracy": 82.25352112676056,
+    "validation_accuracy": 92.10526315789474
+  },
+  {
+    "file": "kernel_0.1_hard_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.25,
+    "hard_validation_accuracy": 84.22535211267605,
+    "validation_accuracy": 92.98245614035088
+  },
+  {
+    "file": "kernel_0.1_hard_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.5,
+    "hard_validation_accuracy": 83.94366197183099,
+    "validation_accuracy": 92.85714285714286
+  },
+  {
+    "file": "kernel_0.1_hard_0.1.npz",
+    "gamma": 0.1,
+    "weight": 0.75,
+    "hard_validation_accuracy": 83.38028169014085,
+    "validation_accuracy": 92.60651629072682
+  },
+  {
+    "file": "kernel_0.1_hard_0.1.npz",
+    "gamma": 0.1,
+    "weight": 1.0,
+    "hard_validation_accuracy": 83.09859154929578,
+    "validation_accuracy": 92.4812030075188
+  }
+]

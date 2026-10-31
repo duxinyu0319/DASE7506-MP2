@@ -1,0 +1,9 @@
+{
+  "validation_errors": 51,
+  "validation_total": 798,
+  "median_error_top2_margin": 0.6389139240651347,
+  "median_correct_top2_margin": 0.5159803391766726,
+  "train_errors_used_for_mining": 86,
+  "mining_weight": 3,
+  "note": "Mining uses in-sample errors of the train-fitted baseline on training data only; it is not OOF difficulty estimation. No validation labels used for gradient updates."
+}

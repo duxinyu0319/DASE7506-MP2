@@ -1,0 +1,35 @@
+{
+  "validation_errors": 51,
+  "contract_checks": [
+    "changed bank size/order",
+    "candidate permutation",
+    "empty bank"
+  ],
+  "official_scorer_unchanged": true,
+  "original_best_checkpoint_bytes_unchanged": true,
+  "inference_asset_bytes": 1339071,
+  "examples": [
+    {
+      "question": "Megan bought 2 dozen eggs. As she was walking to her car, she dropped a tray of eggs. 3 eggs broke, and twice as many cracked. What is the difference between the eggs that are still in perfect condition and those that are cracked?",
+      "chosen": 2,
+      "candidate_answers": [
+        "9",
+        "18",
+        "6",
+        null
+      ],
+      "chosen_text": "Megan bought 2 dozen eggs, which is **24 eggs**. She dropped a tray of eggs, and **3 eggs broke**, and **twice as many cracked**, meaning **6 eggs cracked**.\n\n- Perfect condition: $ 24 - 3 - 6 = 15 $ eggs.\n- Cracked: $ 3 + 6 = 9 $ eggs.\n\nThe difference between the eggs that are still in perfect condition and those that are cracked is:\n\n$$\n15 - 9 = \\boxed{6}\n$$\n\n#### <numeric answer> 6"
+    },
+    {
+      "question": "Yun had 20 paperclips initially, but then lost 12. Marion has 1/4 more than what Yun currently has, plus 7. How many paperclips does Marion have?",
+      "chosen": 3,
+      "candidate_answers": [
+        "9",
+        "17",
+        "17",
+        "17"
+      ],
+      "chosen_text": "We are given the following:\n\n- Yun had **20 paperclips** initially.\n- Then lost **12**, so **Yun currently has** $ 20 - 12 = 8 $ paperclips.\n\n- Marion has **$ \\frac{1}{4} $ more than what Yun currently has, plus 7**.\n\nSo, we calculate:\n\n$$\n\\text{Marion's paperclips} = 8 + \\left( \\frac{1}{4} \\times 8 \\right) + 7\n$$\n\n$$\n= 8 + 2 + 7 = 17\n$$\n\n### Final Answer:\n$$\n\\boxed{17}\n$$"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "total_seconds": 53.555881375000354,
+  "fit_count": 14,
+  "fusion_count": 30,
+  "configuration": {
+    "revision": "v2",
+    "prior_test_score_known": 79.87152034261241,
+    "selection": "hard validation then full validation",
+    "hard_accuracy": 84.50704193115234,
+    "validation_accuracy": 93.10777282714844,
+    "members": [
+      {
+        "name": "mlp_combined_7508_0.0001",
+        "mode": "combined",
+        "kind": "mlp"
+      },
+      {
+        "name": "rank_combined_0.1",
+        "mode": "combined",
+        "kind": "linear"
+      }
+    ],
+    "weights": [
+      0.75,
+      0.25
+    ],
+    "group_standardize": true,
+    "clip": 8.0
+  }
+}
